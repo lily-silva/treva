@@ -21,15 +21,13 @@ section {
   text-align: center;
   font-size: 22px;
   line-height: 40px;
-  padding-bottom: 30px;
+  padding-bottom: 70px;
   background-color: rgba(255, 255, 255, 0.8);
   border-radius: 8px;
 }
-
 #buttons {
   margin-top: 10px;
 }
-
 .btt {
   width: 151px;
   height: 55px;
@@ -38,12 +36,10 @@ section {
   color: #4a4edd;
   border-radius: 8px;
 }
-
 .btt:hover {
   background-color: #4a4edd;
   color: white;
 }
-
 .divider {
   width: auto;
   height: 12px;
@@ -60,18 +56,15 @@ section {
     color: white;
     text-align: center;
   }
-
   #signIn {
     font-size: 18px;
     font-weight: 500;
     color: #434343;
     margin-right: 22px;
   }
-
   #buttons {
     margin-top: 30px;
   }
-
   .divider {
     width: 32px;
     height: auto;
